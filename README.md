@@ -1,1 +1,2 @@
 # Predicted-Question-Answering-using-NLP-Models
+This is the final in-course project of CSE440. Here, I used different preprocessing techniques such as Stemming, Lemmatization, TF-IDF, and Skipgram. Then I used basic machine learning models, a custom deep neural network model, and different NLP models such as LSTM, GRU, Bi-Directional LSTM, Bi-Directional GRU, Simple RNN, Bi-Directional RNN, and fine-tuned them. 
